@@ -3,8 +3,8 @@ pygments: true
 markdown:    rdiscount
 rdiscount:
   extensions: [smart]
-name: Robert Heaton
+name: More Robert Heaton
 description: 'Ruby/Rails Engineer. One-track lover down a two-way lane'
-url: http://robertheaton.com
+url: http://more.robertheaton.com
 auto: true
-feedburner_id: robertheaton
+feedburner_id: morerobertheaton
