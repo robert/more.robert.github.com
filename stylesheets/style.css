@@ -68,7 +68,7 @@ header {
   padding: 15px 0;
   line-height: 1.3em;
   margin: 0 auto 30px;
-  background: #f0f8f0;
+  background: #eef8ee;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -113,7 +113,7 @@ header {
 
 footer {
   padding: 25px;
-  background: #f0f8f0;
+  background: #eef8ee;
   line-height: 2rem; }
   footer h3 {
     font-size: 14px; }
