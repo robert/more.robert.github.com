@@ -14,11 +14,11 @@ Some people get off Facebook completely. This is a ballsy move, and it does comp
 
 3. <i>Hide the Newsfeed</i> - just in case you should still accidentally find yourself in the attention and happiness black hole that is the Facebook.com homepage, make sure that the Newsfeed is safely hidden away and unable to bother you. Download the <a href="https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en" target="_blank">Stylish plugin for Chrome</a>, and add the following rule to apply only on the domain “facebook.com”. Then look back. The Newsfeed has gone. You’re safe now.
 
-    <pre>
-      #contentArea > #stream_pagelet ._5pcb {
-        display: none;
-      }
-    </pre>
+    ```
+    #contentArea > #stream_pagelet ._5pcb {
+      display: none;
+    }
+    ```
 
 4. <i>Don’t save your password</i> - introduce just a little extra friction to the Facebook process to remind yourself that there’s a good chance you don’t want to be doing this.
 
