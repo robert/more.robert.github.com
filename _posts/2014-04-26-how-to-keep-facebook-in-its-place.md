@@ -12,15 +12,13 @@ Some people get off Facebook completely. This is a ballsy move, and it does comp
 
 2. <i>Bookmark facebook.com/messages</i> - you want to use Facebook almost purely as a secondary message inbox. Landing on the Messages page rather than the Newsfeed makes perfect sense, and a surprisingly large difference just on its own.
 
-3. <i>Hide the Newsfeed</i> - just in case you should still accidentally find yourself in the attention and happiness black hole that is the Facebook.com homepage, make sure that the Newsfeed is safely hidden away and unable to bother you. Download the <a href="https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en" target="_blank">Stylish plugin for Chrome</a>, and add the following rule to apply only on the domain “facebook.com”:
+3. <i>Hide the Newsfeed</i> - just in case you should still accidentally find yourself in the attention and happiness black hole that is the Facebook.com homepage, make sure that the Newsfeed is safely hidden away and unable to bother you. Download the <a href="https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en" target="_blank">Stylish plugin for Chrome</a>, and add the following rule to apply only on the domain “facebook.com”. Then look back. The Newsfeed has gone. You’re safe now.
 
   {% highlight css %}
       #contentArea > #stream_pagelet ._5pcb {
         display: none;
       }
   {% endhighlight %}
-
-  Now look back. The Newsfeed has gone. You’re safe now.
 
 4. <i>Don’t save your password</i> - introduce just a little extra friction to the Facebook process to remind yourself that there’s a good chance you don’t want to be doing this.
 
