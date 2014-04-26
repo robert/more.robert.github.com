@@ -24,6 +24,6 @@ Some people get off Facebook completely. This is a ballsy move, and it does comp
 
 4. <i>Don’t save your password</i> - introduce just a little extra friction to the Facebook process to remind yourself that there’s a good chance you don’t want to be doing this.
 
-5. <i>No native apps</i> - native apps send obnoxious dings, make Facebook accessible in places you don’t want it to be and ruin all of the hard work you just put into hamstringing your laptop Facebook experience. Get rid of all your native apps and never look back. Facebook on an iPad browser is only a marginally better experience than on a Nokia 3310, so you should be pretty much totally covered.
+5. <i>No native apps</i> - native apps send obnoxious dings, make Facebook accessible in places you don’t want it to be and ruin all of the hard work you just put into hamstringing your laptop Facebook experience. Get rid of all your native apps and never look back. Facebook on an iPad browser is only a marginally better experience than on a Nokia 3310, so you should be totally covered.
 
 With these 5 steps, you keep the good and healthy elements of crack cocaine, without the brain-hotwiring, attention-destroying crappy parts. The experience is nothing short of liberating. And that fact is pretty scary in itself.
