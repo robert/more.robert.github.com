@@ -8,6 +8,6 @@ And everyone also know that rich people and companies are obviously going to res
 
 So let’s make the benefits system so terrible that even the worst jobs look attractive by comparison.
 
-But let’s keep tax rates low so that no one has to worry about their excess money.
+But let’s keep tax rates low so that no one has to even worry about exploiting the offshore loophole du jour.
 
 Problems solved.
