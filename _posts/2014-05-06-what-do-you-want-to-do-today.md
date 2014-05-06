@@ -8,4 +8,4 @@ You can instead see free time as something to be navigated. All too often I see 
 
 It seems like it would be much better to focus on positives, to spend your effort on finding out what and where they are, and then doing them. Maximise the maximum, rather than the minimum.
 
-I’m often choosing my activities by thinking “what could I do now?”, coming up with a list of things that seem passably interesting and constructive, and choosing one of them with all due haste before I get lethargic. But, at the weekend, I was walking home and for some reason instead thought “what do I <i>want</i> to do now?” And bizarrely and slightly worryingly, this felt quite alien.
+I often choose my activities by thinking “what could I do now?”, coming up with a list of things that seem passably interesting and constructive, and choosing one of them with all due haste before I get lethargic. But, at the weekend, I was walking home and for some reason instead thought “what do I <i>want</i> to do now?” And bizarrely and slightly worryingly, this felt quite alien.
