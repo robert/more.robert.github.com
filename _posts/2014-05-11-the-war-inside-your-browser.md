@@ -1,0 +1,11 @@
+---
+title: The war inside your browser
+layout: post
+---
+There is a war on inside your browser. Facebook, Reddit, and the hoards of “procrastination” are facing down against the “productivity” vanguard, consisting mostly of sheer force of will and/or selective website blockers. I have armed myself, but my over-liberal use of quotation marks should tip you off that I do feel something is amiss. I use StayFocusd to restrict the time I can spend on Facebook, Hacker News, Twitter, Google Analytics and Google Webmaster Tools to 1 min per day, and smash my head against a concrete wall thousands of times every morning so that I forget that I could just open up Firefox instead of Chrome.
+
+I don’t do this to help me work. I work in sacred 45 min sprints and have become pretty good at staying anti-socially on point during these. And I don’t use this to avoid "wasting time”. I’m not particularly important, and if I had 15 minutes extra free time each day I’d just spend it brushing my teeth more thoroughly or walking a bit slower. I don’t care about any particular block of time that these sites might take up. I do care about the global effect on my personality and quality of attention that I fear constant and reflexive snacking on HTML cocaine pellets can have.
+
+I want to stop the reflex reaction of opening up the same 8 tabs every time I open a browser window to do anything. I want to reduce the number of times per day I default to opening my laptop and cruising round variable rewards that I have no critical interest in. I want to insert a step of consciousness before I let my auto-pilot take over. I think that this can and will have a qualitative, not just quantitative effect on the way I pay attention to the world and experience time. Spending 20 mins less per day on the internet is not an exciting outcome, and whilst producing more of whatever output you are paid to produce is important, it doesn’t feel healthy for that to be the primary purpose of your every effort.
+
+On the other hand, having more and larger unbroken chunks of time away from a computer screen and away from thinking about a computer screen feels potentially magical.
