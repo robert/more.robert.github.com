@@ -16,4 +16,4 @@ Or:
 
 > “I don’t think I’m better than everyone else because of this, but it does make me calmer, more pleasant to be with, more attractive, better at cooking and a more skilful lover.”
 
-You show both self-awareness AND a willingness to stand up for yourself in the face of opposition, whilst arguably having neither. This isn’t being disingenuous, it’s just knowingly obfuscating the truth.
+You show both a self-awareness AND a willingness to stand up for yourself in the face of opposition, whilst arguably having neither. This isn’t being disingenuous, it’s just knowingly obfuscating the truth.
