@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \"It's not hard\" is not right
+title: It's doable
 ---
 I was talking to a young human male with the beginnings of an interest in programming this morning. “Man, programming looks so complicated” he said. Deciding that it was time to be magnanimous and inspirational, I replied, “It’s really not that hard.” “Yeah, but probably nothing’s hard for people like you,” he said morosely. Clearly he had not heard about the number of times I failed my driving test, and I had not had the motivational impact I had hoped.
 
